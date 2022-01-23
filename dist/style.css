@@ -1,6 +1,6 @@
 :root {
   --pink: #ed1250;
-  --pale-yellow: #fff6da;
+  --pale-blue: #c4f7f4;
   --dark-blue: #042f4b;
   --orange: #fbc99d;
   --fredoka: "Pacifico", cursive;
@@ -22,7 +22,7 @@ html {
 }
 
 body {
-  background: var(--pale-yellow);
+  background: var(--pale-blue);
   overflow-x: hidden;
 }
 
@@ -60,7 +60,7 @@ h2 {
 }
 
 .links {
-  color: var(--pale-yellow);
+  color: var(--pale-blue);
   font-size: 1.5rem;
   letter-spacing: 2px;
   display: flex;
@@ -143,7 +143,7 @@ li:hover {
   border-radius: 25px;
   background: var(--pink);
   text-decoration: none;
-  color: var(--pale-yellow);
+  color: var(--pale-blue);
   font-size: 1.8rem;
   font-family: var(--poppins);
   transition: 0.3s ease;
@@ -175,7 +175,7 @@ li:hover {
   font-family: var(--poppins);
   font-size: 2rem;
   display: flex;
-  color: var(--pale-yellow);
+  color: var(--pale-blue);
   padding: 3rem;
 }
 
@@ -376,7 +376,7 @@ li:hover {
   font-size: 1.6rem;
   background: var(--pink);
   padding: 8px 22px;
-  color: var(--pale-yellow);
+  color: var(--pale-blue);
   border: none;
   outline: none;
   border-radius: 4px;
@@ -429,7 +429,7 @@ li:hover {
   }
   .links li:hover {
     background: #555;
-    color: var(--pale-yellow);
+    color: var(--pale-blue);
   }
   .links.active {
     display: flex;
