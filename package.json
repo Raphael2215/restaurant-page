@@ -17,7 +17,7 @@
   "bugs": {
     "url": "https://github.com/Raphael2215/restaurant-page/issues"
   },
-  "homepage": "https://github.com/Raphael2215/restaurant-page#readme",
+  "homepage": "https://github.com/Raphael2215/restaurant-page",
   "devDependencies": {
     "webpack": "^5.67.0",
     "webpack-cli": "^4.9.1"
